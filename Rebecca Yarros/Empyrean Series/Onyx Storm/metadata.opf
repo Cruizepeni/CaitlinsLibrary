@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c600099a-2235-4c70-8305-06eb80424a56</dc:identifier>
+        <dc:title>Onyx Storm</dc:title>
+        <dc:creator opf:file-as="Rebecca Yarros" opf:role="aut">Rebecca Yarros</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-21T00:00:00+00:00</dc:date>
+        <dc:publisher>Little, Brown Book Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CW1GZXZT</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="The Empyrean"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2026-11-02T07:21:01.447941+00:00"/>
+        <meta name="calibre:title_sort" content="Onyx Storm"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
